@@ -1,11 +1,9 @@
-import './App.css';
-
+import React from "react"
+import Topbar from "./components/topbar/Topbar.jsx"
 function App() {
-  return (
-    <div className="app">
-    Hello World
+  return <div className="app">
+     <Topbar/>
     </div>
-  );
 }
 
-export default App;
+export default App
