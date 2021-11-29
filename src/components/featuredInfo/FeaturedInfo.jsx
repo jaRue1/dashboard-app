@@ -1,5 +1,6 @@
 import React from "react"
 import "./featuredInfo.css"
+
 import { ArrowDownward, ArrowUpward } from "@material-ui/icons";
 function FeaturedInfo() {
   return (
