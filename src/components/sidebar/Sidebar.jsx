@@ -52,7 +52,7 @@ function Sidebar() {
             </li>
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
-              Transactions
+              Money
             </li>
             <li className="sidebarListItem">
               <BarChart className="sidebarIcon" />
