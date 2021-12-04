@@ -5,6 +5,10 @@
   position: sticky;
   top: 50px;
 }
+.sidebarLinks{
+  text-decoration: none;
+  color: #555;
+}
 .sidebarWrapper{
   padding: 20px;
   color: #555;
